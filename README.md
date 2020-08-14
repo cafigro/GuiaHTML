@@ -1,4 +1,3 @@
-# GuiaHTML
 <h1>  Desarrollo guía 3 HTML </h1>
 
 - Al usar la propiedad float en el texto para acomodar el tag img a la izquierda, es complicado que este se vea bien, ya que la tabla se desordena o hacia la derecha o hacia la izquierda, es importante revisar que calze el porte de la imagen con el del texto para que no arruine la tabla, cosa que no pasa con los demas tag vistos.
